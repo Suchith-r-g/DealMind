@@ -99,9 +99,3 @@ GROQ_MODEL=llama-3.3-70b-versatile
 > **Note**: DealMind includes a built-in multi-strategy fallback memory and synthesis layer. If credentials are not yet supplied, the system operates deterministically without crashing, guaranteeing smooth demos.
 
 ---
-
-## 🎬 60-Second Demo Story for Hackathon Judges
-1. **Show the Timeline**: Show **Acme Cloud Logistics** across 3 stages (Discovery $\to$ Tech Review $\to$ Pricing Negotiation).
-2. **Open Memory Inspector**: Search for `PII` or `budget`. Show how Hindsight isolates past statements across calls and people.
-3. **Click "Pre-Call Briefing Battlecard"**: Watch the agent generate the battlecard citing specific past objections (Sarah's $150k ceiling, Marcus's VPC isolation requirement).
-4. **Log a New Call**: Ingest a new meeting note and see it immediately retained into Hindsight memory.
